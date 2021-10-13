@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Azri! 👋
 
-<!--
-**az-iar/az-iar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+- Fullstack Developer
+- Based in Kuala Lumpur, Malaysia 🇲🇾
+- Website: https://www.azriismail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+
+- Laravel
+- VueJS, InertiaJS
+- MySQL and PostgreSQL
+- AWS
+- Wordpress, Magento
+- Ionic
