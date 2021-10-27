@@ -2,15 +2,16 @@
 
 #### About Me
 
-- Fullstack Developer
+- Fullstack Developer (current stack: Laravel, Vue, PostgreSQL)
 - Based in Kuala Lumpur, Malaysia 🇲🇾
 - Website: https://www.azriismail.com
 
 #### Skills
 
-- Laravel
-- VueJS, InertiaJS
-- MySQL and PostgreSQL
-- AWS
-- Wordpress, Magento
+- PHP <Laravel, Symfony, CodeIgniter>
+- Javascript <VueJS, InertiaJS, ReactJS>
+- Database <MySQL, PostgreSQL, ElasticSearch>
+- AWS(EC2, RDS, S3, ElastiCache, SQS) & Digital Ocean
+- CI/CD <Github Action, Bitbucket Pipeline>
+- CMS <Wordpress, Magento>
 - Ionic
