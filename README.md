@@ -8,10 +8,10 @@
 
 #### Skills
 
-- PHP <Laravel, Symfony, CodeIgniter>
-- Javascript <VueJS, InertiaJS, ReactJS>
-- Database <MySQL, PostgreSQL, ElasticSearch>
+- PHP >> Laravel, Symfony, CodeIgniter
+- Javascript >> VueJS, InertiaJS, ReactJS
+- Database >> MySQL, PostgreSQL, ElasticSearch
 - AWS(EC2, RDS, S3, ElastiCache, SQS) & Digital Ocean
-- CI/CD <Github Action, Bitbucket Pipeline>
-- CMS <Wordpress, Magento>
-- Mobile App <Ionic>
+- CI/CD >> Github Action, Bitbucket Pipeline
+- CMS >> Wordpress, Magento
+- Mobile App >> Ionic
