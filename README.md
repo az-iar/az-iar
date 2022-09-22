@@ -1,4 +1,4 @@
-### Hi, I am Azri! 👋
+### Hello there, I am Azri! 👋
 
 #### About Me
 
