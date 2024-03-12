@@ -2,7 +2,7 @@
 
 #### About Me
 
-- Fullstack Developer (current stack: Laravel, Vue, Inertia, TailwindCSS, PostgreSQL, AWS)
+- Fullstack Developer (current stack: Laravel, Vue, Inertia, Nuxt, TailwindCSS, MySQL, PostgreSQL, AWS)
 - Based in Kuala Lumpur, Malaysia 🇲🇾
 - Website: https://www.azriismail.com
 
